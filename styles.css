@@ -153,4 +153,7 @@ body{
 	.navbar .menu.active{
 		display: block;
 	}
+	.main_container .content .item_wrap{
+		width: 100%;
+	}
 }
